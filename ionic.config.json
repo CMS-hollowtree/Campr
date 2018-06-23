@@ -1,0 +1,8 @@
+{
+  "name": "Campr",
+  "app_id": "dac8fe88",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
